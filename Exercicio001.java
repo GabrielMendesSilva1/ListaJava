@@ -1,4 +1,4 @@
-//Exercício 001 do TED da disciplina Linguagem de Programação
+
 
 import java.util.Scanner;
 
