@@ -1,9 +1,7 @@
-//exercicio 003
+
 
 import java.util.Scanner;
-/*Uma empresa decidiu dar 20% de aumento aos funcionários cujos salários são inferiores a 500 reais. Escreva um programa que leia o salário de vários
-funcionários se mostre o valor do salário reajustado ou uma mensagem caso o funcionário não tenha direito ao aumento. O programa será encerrado quando se
-digitar “fim” para o nome do funcionário. (Comando while)*/
+
 public class Exercicio003 {
     public static void main(String[] args) {
         var leitor = new Scanner(System.in);
